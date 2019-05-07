@@ -2,7 +2,6 @@ import {NgModule} from '@angular/core';
 import {RouterModule, Routes} from '@angular/router';
 import {BrowseCategoriesComponent} from './pages/browsecategories/browse-categories.component';
 import { CompareServicesComponent } from './pages/compare/compare-services.component';
-// import { ServiceEditComponent } from './pages/eInfraServices/service-edit.component';
 import { ServiceUploadComponent } from './pages/eInfraServices/service-upload.component';
 import {HomeComponent} from './pages/home/home.component';
 import {CommonModule} from '@angular/common';
